@@ -1,0 +1,1 @@
+# go-dict-server-prepare
